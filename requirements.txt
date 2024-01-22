@@ -1,0 +1,8 @@
+langchain-openai
+langchain
+chromadb
+python-dotenv
+tiktoken
+umap-learn
+sentence-transformers
+matplotlib
